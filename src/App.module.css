@@ -1,0 +1,9 @@
+h1 {
+  text-align: center;
+}
+
+.episode-counter {
+  padding: 10px;
+  font-size: 18px;
+  border-radius: 8px;
+}
